@@ -1,0 +1,23 @@
+LTspice 26.0.1 for Windows
+Circuit: C:\Users\peppe\OneDrive\Documenten\1ste-jaar\Kwartaal 3\DEF 1\opdrachten-DEF-D-Pepper\FysiekeOntwerpopdrachten\3OntwerpEenTransistor\Templates 2025\NMOS_EKL_analog_template_XYZ.net
+Start Time: Wed Mar  4 15:46:58 2026
+Ignoring BSIM parameter VFBFLAG
+Ignoring BSIM parameter HDIF
+Ignoring BSIM parameter LDIF
+Ignoring BSIM parameter ACM
+Ignoring BSIM parameter CALCACM
+solver = Normal
+Maximum thread count: 8
+tnom = 27
+temp = 27
+method = trap
+Warning: Pd = 0 is less than W.
+Warning: Ps = 0 is less than W.
+Direct Newton iteration succeeded in finding operating point.
+Total elapsed time: 1.494 seconds.
+
+Files loaded:
+C:\Users\peppe\OneDrive\Documenten\1ste-jaar\Kwartaal 3\DEF 1\opdrachten-DEF-D-Pepper\FysiekeOntwerpopdrachten\3OntwerpEenTransistor\Templates 2025\NMOS_EKL_analog_template_XYZ.net
+C:\Users\peppe\AppData\Local\LTspice\lib\cmp\standard.mos
+C:\Users\peppe\OneDrive\Documenten\1ste-jaar\Kwartaal 3\DEF 1\opdrachten-DEF-D-Pepper\FysiekeOntwerpopdrachten\3OntwerpEenTransistor\Templates 2025\nmosekl.lib
+
